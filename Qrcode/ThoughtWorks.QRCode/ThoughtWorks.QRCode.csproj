@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: E:\工作\Code\ZebraZPLUtilityProject\ZebraZPLUtility\bin\Debug\ThoughtWorks.QRCode.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{797D3ED0-BF5D-45E4-8648-5EC489E205EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>ThoughtWorks.QRCode</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>ThoughtWorks.QRCode</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.4778.30637</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ExceptionHandler\SymbolNotFoundException.cs" />
+    <Compile Include="ExceptionHandler\FinderPatternNotFoundException.cs" />
+    <Compile Include="ExceptionHandler\VersionInformationException.cs" />
+    <Compile Include="ExceptionHandler\InvalidDataBlockException.cs" />
+    <Compile Include="ExceptionHandler\InvalidVersionInfoException.cs" />
+    <Compile Include="ExceptionHandler\AlignmentPatternNotFoundException.cs" />
+    <Compile Include="ExceptionHandler\InvalidVersionException.cs" />
+    <Compile Include="ExceptionHandler\DecodingFailedException.cs" />
+    <Compile Include="Codec\QRCodeEncoder.cs" />
+    <Compile Include="Codec\QRCodeDecoder.cs" />
+    <Compile Include="Codec\Ecc\BCH15_5.cs" />
+    <Compile Include="Codec\Ecc\ReedSolomon.cs" />
+    <Compile Include="Codec\Util\SystemUtils.cs" />
+    <Compile Include="Codec\Util\ContentConverter.cs" />
+    <Compile Include="Codec\Util\DebugCanvas.cs" />
+    <Compile Include="Codec\Util\DebugCanvasAdapter.cs" />
+    <Compile Include="Codec\Util\ConsoleCanvas.cs" />
+    <Compile Include="Codec\Util\Color_Fields.cs" />
+    <Compile Include="Codec\Util\Color.cs" />
+    <Compile Include="Codec\Util\QRCodeUtility.cs" />
+    <Compile Include="Codec\Data\QRCodeSymbol.cs" />
+    <Compile Include="Codec\Data\QRCodeImage.cs" />
+    <Compile Include="Codec\Data\QRCodeBitmapImage.cs" />
+    <Compile Include="Codec\Reader\QRCodeDataBlockReader.cs" />
+    <Compile Include="Codec\Reader\QRCodeImageReader.cs" />
+    <Compile Include="Codec\Reader\Pattern\AlignmentPattern.cs" />
+    <Compile Include="Codec\Reader\Pattern\LogicalSeed.cs" />
+    <Compile Include="Codec\Reader\Pattern\FinderPattern.cs" />
+    <Compile Include="Geom\Line.cs" />
+    <Compile Include="Geom\Axis.cs" />
+    <Compile Include="Geom\SamplingGrid.cs" />
+    <Compile Include="Geom\Point.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

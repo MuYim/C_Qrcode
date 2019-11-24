@@ -1,0 +1,20 @@
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.Form1.resources
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.Properties.Resources.resources
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.csproj.GenerateResource.Cache
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\bin\Debug\Qrcode.exe
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\bin\Debug\Qrcode.pdb
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.exe
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.pdb
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\obj\x86\Debug\Qrcode.csprojResolveAssemblyReference.cache
+c:\users\muyi\documents\visual studio 2010\Projects\Qrcode\Qrcode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\Qrcode\bin\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.exe
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.pdb
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\bin\Debug\Qrcode.exe
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\bin\Debug\Qrcode.pdb
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\bin\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.csprojResolveAssemblyReference.cache
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.Form1.resources
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.Properties.Resources.resources
+C:\Users\王明浩\Desktop\新建文件夹\Qrcode\Qrcode\obj\x86\Debug\Qrcode.csproj.GenerateResource.Cache

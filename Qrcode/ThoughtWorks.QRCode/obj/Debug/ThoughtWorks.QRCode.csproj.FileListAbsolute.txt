@@ -1,0 +1,18 @@
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.pdb
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.GenerateResource.Cache
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.dll
+E:\工作\Code\ZebraZPLUtilityProject\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.GenerateResource.Cache
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MuYi\Desktop\ppt\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\bin\Debug\ThoughtWorks.QRCode.pdb
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.csproj.GenerateResource.Cache
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.dll
+C:\Users\MuYi\Documents\Visual Studio 2010\Projects\Qrcode\ThoughtWorks.QRCode\obj\Debug\ThoughtWorks.QRCode.pdb
